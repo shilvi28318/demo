@@ -1,0 +1,317 @@
+{
+  "GameBasicDetails": {
+    "AntiAliasing": 0,
+    "Version": "1.0.0",
+    "ForceUpdate": true,
+    "GameLaunchDelayTime": 1,
+    "FullScreenAdsTime": 30
+  },
+  "PercentageAiDifficultyTableEntry": [
+    {
+      "AiPercentageSpeed": 100,
+      "Time": 0
+    },
+    {
+      "AiPercentageSpeed": 110,
+      "Time": 10
+    },
+    {
+      "AiPercentageSpeed": 120,
+      "Time": 20
+    },
+    {
+      "AiPercentageSpeed": 130,
+      "Time": 30
+    },
+    {
+      "AiPercentageSpeed": 140,
+      "Time": 40
+    },
+    {
+      "AiPercentageSpeed": 150,
+      "Time": 50
+    }
+  ],
+  "PowerUpTimeTableEntry": {
+    "MagnetTime": 10,
+    "IceFreezeTime": 10,
+    "SpeedUpTime": 10
+  },
+  "PathFinderAI": [
+    {
+      "AiCount": 1,
+      "RedAiSpeed": 6,
+      "RedAiCount": 0,
+      "GreenAiSpeed": 5,
+      "GreenAiCount": 0,
+      "BlueAiSpeed": 4,
+      "BlueAiCount": 1,
+      "Time": 0
+    },
+    {
+      "RedAiSpeed": 6,
+      "RedAiCount": 0,
+      "GreenAiSpeed": 5,
+      "GreenAiCount": 0,
+      "BlueAiSpeed": 4,
+      "BlueAiCount": 2,
+      "AiCount": 2,
+      "Time": 10
+    },
+    {
+      "RedAiSpeed": 6,
+      "RedAiCount": 0,
+      "GreenAiSpeed": 5,
+      "GreenAiCount": 1,
+      "BlueAiSpeed": 4,
+      "BlueAiCount": 2,
+      "AiCount": 3,
+      "Time": 15
+    },
+    {
+      "RedAiSpeed": 6,
+      "RedAiCount": 0,
+      "GreenAiSpeed": 5,
+      "GreenAiCount": 2,
+      "BlueAiSpeed": 4,
+      "BlueAiCount": 2,
+      "AiCount": 4,
+      "Time": 20
+    },
+    {
+      "RedAiSpeed": 6,
+      "RedAiCount": 1,
+      "GreenAiSpeed": 5,
+      "GreenAiCount": 2,
+      "BlueAiSpeed": 4,
+      "BlueAiCount": 2,
+      "AiCount": 5,
+      "Time": 25
+    },
+    {
+      "RedAiSpeed": 6,
+      "RedAiCount": 2,
+      "GreenAiSpeed": 5,
+      "GreenAiCount": 2,
+      "BlueAiSpeed": 4,
+      "BlueAiCount": 2,
+      "AiCount": 6,
+      "Time": 30
+    },
+    {
+      "RedAiSpeed": 6,
+      "RedAiCount": 3,
+      "GreenAiSpeed": 5,
+      "GreenAiCount": 2,
+      "BlueAiSpeed": 4,
+      "BlueAiCount": 2,
+      "AiCount": 7,
+      "Time": 35
+    },
+    {
+      "RedAiSpeed": 6,
+      "RedAiCount": 4,
+      "GreenAiSpeed": 5,
+      "GreenAiCount": 2,
+      "BlueAiSpeed": 4,
+      "BlueAiCount": 2,
+      "AiCount": 8,
+      "Time": 40
+    },
+    {
+      "RedAiSpeed": 6,
+      "RedAiCount": 5,
+      "GreenAiSpeed": 5,
+      "GreenAiCount": 2,
+      "BlueAiSpeed": 4,
+      "BlueAiCount": 2,
+      "AiCount": 9,
+      "Time": 45
+    },
+    {
+      "RedAiSpeed": 6,
+      "RedAiCount": 6,
+      "GreenAiSpeed": 5,
+      "GreenAiCount": 2,
+      "BlueAiSpeed": 4,
+      "BlueAiCount": 2,
+      "AiCount": 10,
+      "Time": 50
+    }
+  ],
+  "FuelTableEntry": {
+    "TotalFuel": 5,
+    "FuelReducePerSecond": 0.05,
+    "FuelAddPerFuelObject": 0.5
+  },
+  "PowerUpTableEntries": [
+    {
+      "IceFreeze": 0,
+      "SpeedUp": 1,
+      "Magnet": 0,
+      "EndDistance": 100,
+      "StartDistance": 0
+    },
+    {
+      "IceFreeze": 1,
+      "SpeedUp": 0,
+      "Magnet": 0,
+      "EndDistance": 200,
+      "StartDistance": 100
+    },
+    {
+      "IceFreeze": 0,
+      "SpeedUp": 0,
+      "Magnet": 1,
+      "EndDistance": 300,
+      "StartDistance": 200
+    },
+    {
+      "IceFreeze": 0,
+      "SpeedUp": 1,
+      "Magnet": 0,
+      "EndDistance": 400,
+      "StartDistance": 300
+    },
+    {
+      "IceFreeze": 1,
+      "SpeedUp": 0,
+      "Magnet": 0,
+      "EndDistance": 500,
+      "StartDistance": 400
+    },
+    {
+      "IceFreeze": 0,
+      "SpeedUp": 0,
+      "Magnet": 1,
+      "EndDistance": 600,
+      "StartDistance": 500
+    },
+    {
+      "IceFreeze": 0,
+      "SpeedUp": 1,
+      "Magnet": 0,
+      "EndDistance": 700,
+      "StartDistance": 600
+    },
+    {
+      "IceFreeze": 1,
+      "SpeedUp": 0,
+      "Magnet": 0,
+      "EndDistance": 800,
+      "StartDistance": 700
+    },
+    {
+      "IceFreeze": 0,
+      "SpeedUp": 0,
+      "Magnet": 1,
+      "EndDistance": 900,
+      "StartDistance": 800
+    },
+    {
+      "IceFreeze": 0,
+      "SpeedUp": 1,
+      "Magnet": 0,
+      "EndDistance": 1000,
+      "StartDistance": 900
+    },
+    {
+      "IceFreeze": 1,
+      "SpeedUp": 0,
+      "Magnet": 0,
+      "EndDistance": 1100,
+      "StartDistance": 1000
+    },
+    {
+      "IceFreeze": 0,
+      "SpeedUp": 0,
+      "Magnet": 1,
+      "EndDistance": 1200,
+      "StartDistance": 1100
+    },
+    {
+      "IceFreeze": 0,
+      "SpeedUp": 1,
+      "Magnet": 0,
+      "EndDistance": 1300,
+      "StartDistance": 1200
+    },
+    {
+      "IceFreeze": 1,
+      "SpeedUp": 0,
+      "Magnet": 0,
+      "EndDistance": 1400,
+      "StartDistance": 1300
+    },
+    {
+      "IceFreeze": 0,
+      "SpeedUp": 0,
+      "Magnet": 1,
+      "EndDistance": 1500,
+      "StartDistance": 1400
+    },
+    {
+      "IceFreeze": 0,
+      "SpeedUp": 1,
+      "Magnet": 0,
+      "EndDistance": 1600,
+      "StartDistance": 1500
+    },
+    {
+      "IceFreeze": 1,
+      "SpeedUp": 0,
+      "Magnet": 0,
+      "EndDistance": 1700,
+      "StartDistance": 1600
+    },
+    {
+      "IceFreeze": 0,
+      "SpeedUp": 0,
+      "Magnet": 1,
+      "EndDistance": 1800,
+      "StartDistance": 1700
+    },
+    {
+      "IceFreeze": 0,
+      "SpeedUp": 1,
+      "Magnet": 0,
+      "EndDistance": 1900,
+      "StartDistance": 1800
+    },
+    {
+      "IceFreeze": 1,
+      "SpeedUp": 0,
+      "Magnet": 0,
+      "EndDistance": 2000,
+      "StartDistance": 1900
+    },
+    {
+      "IceFreeze": 0,
+      "SpeedUp": 0,
+      "Magnet": 1,
+      "EndDistance": 2100,
+      "StartDistance": 2000
+    },
+    {
+      "IceFreeze": 0,
+      "SpeedUp": 1,
+      "Magnet": 0,
+      "EndDistance": 2200,
+      "StartDistance": 2100
+    }
+  ],
+  "PlayerTableEntry": [
+    {
+      "Time": 0,
+      "PlayerCarSpeed": 8
+    },
+    {
+      "Time": 20,
+      "PlayerCarSpeed": 10
+    },
+    {
+      "Time": 50,
+      "PlayerCarSpeed": 12
+    }
+  ]
+}
